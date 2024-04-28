@@ -1,0 +1,2 @@
+# pokus-milan
+Learning GIT.
